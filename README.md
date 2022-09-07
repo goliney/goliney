@@ -1,8 +1,10 @@
 # Hi, I'm Serhii 👋 👨‍💻
 
-I'm a software engineer passionate about web-development, frontend, UI/UX, traveling, video games, and more.
+I'm a software engineer passionate about web, frontend, UI/UX, traveling, video games, and more.
 
-If you want to drop me a line I bet you'll find a way to do it  👀.
+You can find me here:
+- [LinkedIn](https://www.linkedin.com/in/serhii-holinei/)
+- [Stack Overflow](https://stackoverflow.com/users/1065780/sergey-goliney)
 
 <!--
 **goliney/goliney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
