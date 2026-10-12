@@ -1,6 +1,6 @@
 # Hi, I'm Serhii 👋 👨‍💻
 
-I'm a software engineer passionate about web, frontend, UI/UX, traveling, video games, and more.
+I'm a software engineer passionate about web, frontend, UI/UX, traveling, and more.
 
 You can find me here:
 - [LinkedIn](https://www.linkedin.com/in/serhii-holinei/)
